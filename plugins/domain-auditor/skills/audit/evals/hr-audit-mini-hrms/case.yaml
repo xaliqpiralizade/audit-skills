@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: hr-audit-mini-hrms
+expected_outcome: |
+  Azərbaycan dilində audit-hesabati-hr-<tarix>.md hesabatı yazılır; məzuniyyət (18 gün, iş günü hesabı, 2024 bayramları), fərdi məlumatların açıq qalması, əmək müqaviləsinin natamam şablonu kimi qəsdən qoyulmuş səhvlər risk dərəcəsi, fayl:sətir sübutu və e-qanun.az mənbəsi ilə tapılır; layihə faylları dəyişdirilmir.
+context:
+  scaffold_script: place-files.sh

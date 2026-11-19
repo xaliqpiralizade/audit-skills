@@ -1,0 +1,22 @@
+{
+  "name": "domain-auditor",
+  "displayName": "Domain Auditor (Sahə auditoru)",
+  "version": "0.1.0",
+  "description": "Hazır proqramı seçilmiş sahənin (HR, maliyyə, anbar...) peşəkar auditoru gözü ilə yoxlayır: funksional tamlıq, Azərbaycan qanunvericiliyinə uyğunluq (rəsmi mənbələrlə), hesablamalar, fərdi məlumatlar, rollar. Nəticə risk dərəcələri olan Azərbaycan dilində Markdown hesabatdır. Auditor faylları dəyişmir.",
+  "keywords": [
+    "audit",
+    "hr",
+    "hrms",
+    "compliance",
+    "azerbaijan",
+    "emek-mecellesi",
+    "ferdi-melumatlar",
+    "domain-review"
+  ],
+  "author": {
+    "name": "xaliqpiralizade"
+  },
+  "homepage": "https://github.com/xaliqpiralizade/claude-skills/tree/main/plugins/domain-auditor",
+  "repository": "https://github.com/xaliqpiralizade/claude-skills",
+  "license": "MIT"
+}

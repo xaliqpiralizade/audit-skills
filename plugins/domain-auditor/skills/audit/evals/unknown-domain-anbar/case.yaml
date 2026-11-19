@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: unknown-domain-anbar
+expected_outcome: |
+  Hazır anbar yoxlama siyahısı olmadığı üçün ümumi metodologiya ilə audit aparılır və hesabatda bu açıq qeyd olunur; qalıq yoxlanılmadan çıxış (mənfi qalıq) və hərəkətlərin izsiz redaktəsi kimi problemlər tapılır.
+context:
+  scaffold_script: place-files.sh
