@@ -1,18 +1,18 @@
-# claude-skills
+# audit-skills
 
-Claude Code üçün şəxsi plugin marketplace-i.
+Claude Code üçün audit plugin-ləri: proqramı sahə mütəxəssisi (HR, maliyyə, anbar...) gözü ilə yoxlayan alətlər.
 
 ## Quraşdırma
 
 ```bash
-/plugin marketplace add xaliqpiralizade/claude-skills
-/plugin install domain-auditor@claude-skills
+/plugin marketplace add xaliqpiralizade/audit-skills
+/plugin install domain-auditor@audit-skills
 ```
 
 Lokal qovluqdan sınamaq üçün:
 
 ```bash
-/plugin marketplace add ~/Desktop/claude-skills
+/plugin marketplace add ~/Desktop/audit-skills
 ```
 
 ## Plugin-lər

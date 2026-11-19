@@ -16,7 +16,7 @@
   "author": {
     "name": "xaliqpiralizade"
   },
-  "homepage": "https://github.com/xaliqpiralizade/claude-skills/tree/main/plugins/domain-auditor",
-  "repository": "https://github.com/xaliqpiralizade/claude-skills",
+  "homepage": "https://github.com/xaliqpiralizade/audit-skills/tree/main/plugins/domain-auditor",
+  "repository": "https://github.com/xaliqpiralizade/audit-skills",
   "license": "MIT"
 }
